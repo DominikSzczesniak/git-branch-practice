@@ -9,4 +9,8 @@ public class Application {
 	static void printName(String name) {
 		System.out.println(name);
 	}
+
+	static void freakOut() {
+		System.out.println("I am freak out rn");
+	}
 }
