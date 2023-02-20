@@ -5,7 +5,6 @@ public class Application {
 	public static void main(String[] args) {
 		System.out.println("hello");
 
-		System.out.println("bugfix");
 
 	}
 
@@ -15,28 +14,4 @@ public class Application {
 		System.out.println(name);
 	}
 
-	static void freakOut() {
-		System.out.println("I am freak out rn");
-	}
-
-
-	static void feature() {
-		System.out.println("todo");
-	}
-
-	static void feature2() {
-		System.out.println("todo");
-	}
-	
-	static void feature3() {
-		System.out.println("todo");
-	}
-
-	static void asd() {
-		System.out.println("todo");
-	}
-
-	static void asd2() {
-		System.out.println("todo");
-	}
 }
