@@ -7,6 +7,7 @@ public class Application {
 
 		System.out.println("This is a bugfix");
 		System.out.println("This is another bugfix");
+		System.out.println("Change needed for printer to work");
 	}
 
 	// this is a comment
