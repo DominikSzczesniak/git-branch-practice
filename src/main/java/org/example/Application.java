@@ -4,7 +4,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		System.out.println("hello");
-		
+
 	}
 
 	// this is a comment
@@ -28,5 +28,9 @@ public class Application {
 	
 	static void feature3() {
 		System.out.println("todo");
+	}
+
+	static void asd() {
+		System.out.println(todo);
 	}
 }
