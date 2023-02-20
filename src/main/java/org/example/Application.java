@@ -31,6 +31,10 @@ public class Application {
 	}
 
 	static void asd() {
-		System.out.println(todo);
+		System.out.println("todo");
+	}
+
+	static void asd2() {
+		System.out.println("todo");
 	}
 }
