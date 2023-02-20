@@ -18,7 +18,5 @@ public class Application {
 		System.out.println("I am freak out rn");
 	}
 
-	static void bugFix(String todo) {
-		System.out.println("todo");
-	}
+
 }
