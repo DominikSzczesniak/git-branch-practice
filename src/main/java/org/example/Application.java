@@ -6,6 +6,7 @@ public class Application {
 		System.out.println("hello");
 
 		System.out.println("This is a bugfix");
+		System.out.println("This is another bugfix");
 	}
 
 	// this is a comment
