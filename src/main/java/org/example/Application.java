@@ -6,7 +6,7 @@ public class Application {
 		System.out.println("hello");
 
 		System.out.println("bugfix");
-		
+
 	}
 
 	// this is a comment
@@ -30,5 +30,9 @@ public class Application {
 	
 	static void feature3() {
 		System.out.println("todo");
+	}
+
+	static void asd() {
+		System.out.println(todo);
 	}
 }
