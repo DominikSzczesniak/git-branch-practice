@@ -4,10 +4,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		System.out.println("hello");
-
-		System.out.println("This is a bugfix");
-		System.out.println("This is another bugfix");
-		System.out.println("Change needed for printer to work");
+		
 	}
 
 	// this is a comment
