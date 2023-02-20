@@ -21,4 +21,8 @@ public class Application {
 	static void featureTwo() {
 		System.out.println("todo");
 	}
+
+	static void featureThree() {
+		System.out.println("abcdef");
+	}
 }
