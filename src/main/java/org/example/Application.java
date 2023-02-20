@@ -8,6 +8,8 @@ public class Application {
 		System.out.println("This is a bugfix");
 	}
 
+	// this is a comment
+
 	static void printName(String name) {
 		System.out.println(name);
 	}
