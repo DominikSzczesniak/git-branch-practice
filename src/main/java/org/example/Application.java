@@ -17,4 +17,8 @@ public class Application {
 	static void freakOut() {
 		System.out.println("I am freak out rn");
 	}
+
+	static void featureTwo() {
+		System.out.println("todo");
+	}
 }
