@@ -13,4 +13,8 @@ public class Application {
 	static void printName(String name) {
 		System.out.println(name);
 	}
+
+	static void feature() {
+		System.out.println("feature");
+	}
 }
