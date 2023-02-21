@@ -17,4 +17,8 @@ public class Application {
 	static void movement() {
 		System.out.println("movement");
 	}
+	static void feature() {
+		System.out.println("feature");
+	}
+
 }
