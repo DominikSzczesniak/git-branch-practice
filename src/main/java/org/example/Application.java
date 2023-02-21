@@ -14,4 +14,7 @@ public class Application {
 		System.out.println(name);
 	}
 
+	static void movement() {
+		System.out.println("movement");
+	}
 }
