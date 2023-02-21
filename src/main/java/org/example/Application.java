@@ -21,4 +21,8 @@ public class Application {
 	static void addition() {
 		System.out.println("addition");
 	}
+
+	static void movement() {
+		System.out.println("movement");
+	}
 }
