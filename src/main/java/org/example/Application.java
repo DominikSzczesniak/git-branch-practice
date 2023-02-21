@@ -17,4 +17,8 @@ public class Application {
 	static void feature() {
 		System.out.println("feature");
 	}
+
+	static void addition() {
+		System.out.println("addition");
+	}
 }
